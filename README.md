@@ -1,0 +1,2 @@
+# PicGo
+typora图片
